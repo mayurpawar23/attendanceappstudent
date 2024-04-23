@@ -1,4 +1,4 @@
-package com.suyogbauskar.atten.fragments;
+package com.example.attendifyme.fragments;
 
 import static android.content.Context.MODE_PRIVATE;
 
@@ -30,8 +30,8 @@ import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
-import com.suyogbauskar.atten.R;
-import com.suyogbauskar.atten.excelfiles.CreateExcelFileOfAttendance;
+import com.example.attendifyme.R;
+import com.example.attendifyme.excelfiles.CreateExcelFileOfAttendance;
 
 import java.text.SimpleDateFormat;
 import java.util.HashMap;

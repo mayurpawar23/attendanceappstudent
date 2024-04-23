@@ -44,10 +44,10 @@ import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
 import com.google.firebase.messaging.FirebaseMessaging;
 import com.google.firebase.storage.FirebaseStorage;
-import com.suyogbauskar.atten.fragments.HomeFragment;
-import com.suyogbauskar.atten.fragments.SettingsFragment;
-import com.suyogbauskar.atten.pojos.Subject;
-import com.suyogbauskar.atten.utils.ProgressDialog;
+import com.example.attendifyme.fragments.HomeFragment;
+import com.example.attendifyme.fragments.SettingsFragment;
+import com.example.attendifyme.pojos.Subject;
+import com.example.attendifyme.ProgressDialog;
 
 import java.io.File;
 import java.io.FileOutputStream;
